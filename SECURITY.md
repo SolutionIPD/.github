@@ -7,7 +7,7 @@ A segurança dos projetos e sistemas da **Solution IPD** é importante. Agradece
 **Não abra uma issue pública para relatar uma vulnerabilidade ou divulgar detalhes de exploração.**
 
 1. Se o repositório oferecer a opção **Report a vulnerability** na aba *Security*, prefira o canal privado do GitHub.
-2. Caso contrário, escreva para **[info@solution-ipd.com](mailto:info@solution-ipd.com)** com o assunto **Reporte de segurança — GitHub** para solicitar um canal adequado de comunicação.
+2. Caso contrário, escreva para **[suporte@solution-ipd.com](mailto:suporte@solution-ipd.com)** com o assunto **Reporte de segurança — GitHub** para solicitar um canal adequado de comunicação.
 3. Na primeira mensagem, forneça apenas uma descrição geral e o nome do repositório afetado, quando apropriado. **Não envie senhas, tokens, dados pessoais ou dados reais de clientes por e-mail.**
 
 Após o estabelecimento de um canal adequado, informações como impacto, pré-condições, passos de reprodução e possíveis mitigações podem ajudar na análise.
