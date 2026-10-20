@@ -35,6 +35,6 @@ A equipe responsável por cada projeto avaliará as contribuições conforme seu
 
 ## Conduta e segurança
 
-Mantenha as interações técnicas respeitosas e construtivas. Consulte o [Código de Conduta](CODE_OF_CONDUCT.md).
+Mantenha as interações técnicas respeitosas e construtivas. Consulte o [Código de Conduta](https://github.com/SolutionIPD/.github/blob/main/CODE_OF_CONDUCT.md).
 
-**Suspeitas de vulnerabilidades não devem ser publicadas em issues.** Veja [SECURITY.md](SECURITY.md) para o canal de reporte.
+**Suspeitas de vulnerabilidades não devem ser publicadas em issues.** Veja [SECURITY.md](https://github.com/SolutionIPD/.github/blob/main/SECURITY.md) para o canal de reporte.
