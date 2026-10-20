@@ -1,0 +1,47 @@
+name: "Relatar um problema"
+description: "Descreva uma falha reproduzível no projeto."
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Antes de enviar, consulte a documentação do projeto. Não inclua credenciais, dados de clientes ou informações confidenciais. Vulnerabilidades devem ser reportadas pelo canal descrito em SECURITY.md.
+  - type: input
+    id: component
+    attributes:
+      label: "Componente afetado"
+      description: "Indique a área, módulo ou funcionalidade envolvida."
+      placeholder: "Ex.: API, interface, integração"
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: "Descrição do problema"
+      description: "O que aconteceu? Qual foi o impacto?"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: "Passos para reproduzir"
+      description: "Inclua os passos mínimos e um exemplo sem dados sensíveis."
+      placeholder: |
+        1. Acessar...
+        2. Executar...
+        3. Observar...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Comportamento esperado"
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: "Ambiente e evidências"
+      description: "Versão, sistema e logs anonimizados, se relevantes."
+    validations:
+      required: false
