@@ -18,6 +18,8 @@ Este repositório reúne o **perfil público da organização** e os **arquivos 
 
 O GitHub pode usar os arquivos comunitários deste repositório como **padrões da organização** quando um repositório não definir os seus próprios. Isso inclui repositórios privados aos quais a pessoa já tenha acesso; **os arquivos daqui não tornam código privado público**.
 
+**Atenção aos templates de issues:** se um repositório definir seus próprios arquivos de configuração ou templates em `.github/ISSUE_TEMPLATE/`, os formulários padrão da organização podem deixar de ser oferecidos ali. Verifique a configuração no repositório de destino.
+
 As instruções próprias de cada projeto têm precedência. Antes de abrir uma issue ou um pull request, consulte o README e as regras do repositório de destino.
 
 ## Atualizações
