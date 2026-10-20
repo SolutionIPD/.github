@@ -1,0 +1,35 @@
+name: "Sugerir uma melhoria"
+description: "Apresente uma necessidade ou proposta de evolução."
+title: "[Melhoria] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Descreva a necessidade e o resultado esperado, sem compartilhar informações de clientes ou dados confidenciais.
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Problema ou oportunidade"
+      description: "Qual necessidade esta proposta pretende atender?"
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "Solução sugerida"
+      description: "O que deveria mudar no produto ou projeto?"
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: "Benefício esperado"
+      description: "Quem se beneficia e como a melhoria pode ser avaliada?"
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Alternativas ou contexto adicional"
+    validations:
+      required: false
