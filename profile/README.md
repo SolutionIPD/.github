@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.solution-ipd.com/">Site oficial</a> ·
   <a href="https://www.solution-ipd.com/ipd">Conheça a Solution IPD</a> ·
-  <a href="mailto:info@solution-ipd.com">Entre em contato</a>
+  <a href="mailto:suporte@solution-ipd.com">Entre em contato</a>
 </p>
 
 ---
@@ -43,5 +43,8 @@ Trabalhamos na interseção entre **software, sistemas de aquisição de dados, 
 Tem um desafio de pesquisa, desenvolvimento, engenharia ou dados?
 
 🌐 **Site:** [solution-ipd.com](https://www.solution-ipd.com/)  
-✉️ **E-mail:** [info@solution-ipd.com](mailto:info@solution-ipd.com)  
+✉️ **E-mail:** [suporte@solution-ipd.com](mailto:suporte@solution-ipd.com)  
+📱 **WhatsApp:** [Contato pelo número institucional](https://wa.me/5541974036171)  
+📸 **Instagram:** [@solution.ipd](https://www.instagram.com/solution.ipd/)  
+💼 **LinkedIn:** [Solution IPD](https://www.linkedin.com/company/solution-ipd/)  
 📍 **Localização:** Curitiba, Paraná, Brasil
